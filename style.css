@@ -1,0 +1,85 @@
+.title{
+    height: 200px;
+    width:auto;
+    text-align: center;
+    font-style: italic;
+    background-color: orange;
+    display: inline;
+    border-top: 10px solid;
+    padding: 20px;
+}
+h2:hover{
+    border-radius:80%;
+    background-color: green;
+    width: 200px;
+}
+.links{
+    text-align: center;
+    padding: 50px;
+}
+#skills{
+    margin-left: 20px;
+    text-align:center;
+    background-color: orange;
+    border-color: black;
+    border: 2px;
+    border-style: solid;
+    font-weight: bold;
+    font-size: large;
+    font-style: italic;
+    color: purple;
+    
+   
+}
+
+select:focus{
+    background-color: tomato;
+}
+input:focus{
+    background-color:blanchedalmond;
+}
+.section2{
+    /* border-top: 3px solid black; */
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+}
+#a0{
+    text-align: center;
+}
+/* #a1{
+    /* text-align: center; */
+/* } */
+section :nth-of-type(2){
+    padding: 3px;
+}
+section a{
+    color: black;
+    background-color:beige;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+}
+section span{
+    color: black;
+    background-color:beige;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+}
+section a{
+    color: purple;
+    background-color:white;
+    
+}
+section span{
+    color: purple;
+}
+footer{
+    border-top: 30px solid purple;
+    width: fit-content;
+}
+.Achievements{
+    border-top: 20px solid purple;
+}
+
